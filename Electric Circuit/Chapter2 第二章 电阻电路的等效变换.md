@@ -69,7 +69,7 @@ $$
 
 ## 2-6 实际电源的两种模型及其等效变换
 
-![image-20220214094440427](C:\Users\25408\AppData\Roaming\Typora\typora-user-images\image-20220214094440427.png)
+![image](https://user-images.githubusercontent.com/99464366/153786462-3b416b38-b7cc-4b53-b6a6-77bca74155b1.png)
 $$
 G=\frac{1}{R},I_s=GU_S
 $$
