@@ -34,12 +34,12 @@ VCR：$\displaystyle i=\frac{dq}{dt}=\frac{d(Cu)}{dt}=C\frac{du}{dt}$
 ## 1.电容元件
 
 - 能储存电荷or储存电场能量
-- 电压参考极性和极板存储电荷极性一致时==元件特性==： $ q=Cu $  (F)
+- 电压参考极性和极板存储电荷极性一致时元件特性： $ q=Cu $  (F)
 - VCR： $ \displaystyle i=\frac{dq}{dt}=\frac{d(Cu)}{dt}=C\frac{du}{dt} $
 
 
 
-* 在直流状态下，u恒定，相当于开路，即==隔直==
+* 在直流状态下，u恒定，相当于开路，即隔直
 * $ \displaystyle q=\int i\rm{d}t=\int_{-\infty}^{t}i\rm{d}\xi=\int_{-\infty}^{t_0}i\rm{d}\xi+\int_{t_0}^{t}i\rm{d}\xi=q(t_0)+\int_{t_0}^{t}i\rm{d}\xi$
 
 * $\displaystyle u=\frac{q}{C} \to u(t)=u(t_0)+\frac{1}{C}\int_{t_0}^{t}i\rm{d}\xi$
@@ -48,7 +48,7 @@ VCR：$\displaystyle i=\frac{dq}{dt}=\frac{d(Cu)}{dt}=C\frac{du}{dt}$
 
 * $\displaystyle W_c=\frac{1}{2}Cu^2(t)=W_c(t_2)-W_c(t_1)$
 
-* ==无源元件==：不会释放出多于它吸收或储存的能量
+* 无源元件：不会释放出多于它吸收或储存的能量
 * 电容效应     分布电容     杂散电容
 
 ## 2.电感元件
@@ -56,7 +56,7 @@ VCR：$\displaystyle i=\frac{dq}{dt}=\frac{d(Cu)}{dt}=C\frac{du}{dt}$
 * 磁通链$\Psi$  磁通$\Phi$  匝数N          $\Psi =N\Phi$
 
 * $\displaystyle u=\frac{\rm{d}\Psi _L}{\rm{d}t}$
-* ==元件特性==：$\displaystyle \Psi =Li$     ($Wb$  韦伯，韦)     (L:自感系数、电感)
+* 元件特性：$\displaystyle \Psi =Li$     ($Wb$  韦伯，韦)     (L:自感系数、电感)
 * $\displaystyle u=L\frac{\rm{d}i}{\rm{d}t}   $
 * $i=\frac{1}{L}\int u\rm{d}t=i(t_0)+\frac{1}{L}\int_{t_0}^{t}u\rm{d}\xi$
 
@@ -65,7 +65,7 @@ VCR：$\displaystyle i=\frac{dq}{dt}=\frac{d(Cu)}{dt}=C\frac{du}{dt}$
 * $\displaystyle p=ui=Li\frac{\rm{di}}{\rm{d}t}$
 * $\displaystyle W_L(t)=\frac{1}{2}Li^2(t)=\frac{1}{2}\frac{\Psi^2_L(t)}{L}=W_L(t_2)-W_L(t_1)$
 
-* ==无源元件==
+* 无源元件
 
 ## 3.电容、电感串并联
 
