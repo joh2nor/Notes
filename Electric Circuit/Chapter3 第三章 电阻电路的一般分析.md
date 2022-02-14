@@ -109,10 +109,10 @@ n个结点——(n-1)个独立的KCL方程
 
 2. 以各自的网孔电流方向为绕行方向，逐段写出电阻及电源上的电压
 $$
-\left.\begin{matrix}
+\begin{matrix}
  (R_{1}+R_{2})i_{m1}-R_{2}i_{m2}=u_{s1}-u_{s2}& \\ 
  -R_{2}i_{m1}+(R_{2}+R_{3})i_{m2}=u_{s2}-u{s3}& 
-\end{matrix}\right\}
+\end{matrix}
 $$
 3. 用 R<sub>11</sub> R<sub>22</sub> 代表网孔1、网孔2 的自阻，用R<sub>12</sub> R<sub>21</sub> 代表网孔1和网孔2的互阻
    在本例中，有：
@@ -121,10 +121,10 @@ $$
    $$
    则方程化为如下形式：
    $$
-	\left.\begin{matrix}
+	\begin{matrix}
     R_{11}i{m1}+R_{12}i_{m2}=u_{s1}-u_{s2}& \\ 
     R_{21}i_{m1}+R_{22}i_{m2}=u_{s2}-u{s3}& 
-   \end{matrix}\right\}
+   \end{matrix}
 	$$
    此为网孔电流法的一般形式
 ##### 注意
