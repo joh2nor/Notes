@@ -18,7 +18,7 @@
 
 桥形连接
 
-![image-20220214092835902](C:\Users\25408\AppData\Roaming\Typora\typora-user-images\image-20220214092835902.png)
+![image](https://user-images.githubusercontent.com/99464366/153786555-ae718d4c-8417-4058-a788-9c62266c2c10.png)
 
 ## 2-4 电阻的Y形联结和Δ形联结的等效变换
 
