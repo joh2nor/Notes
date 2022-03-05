@@ -6,7 +6,7 @@ Method 3： General methods
 
 ②开路电压（𝒖𝒐𝒄） ，短路电流法（𝑰𝒔𝒄）
 
-③加源求流法 (Apply voltage source, find current)
+③加源求流法 (Apply voltage source， find current)
 
 
 
@@ -20,3 +20,4 @@ $$
 $$
 \int idt\rightarrow\frac{\dot{I}}{j\omega}=\frac{I}{\omega}\angle \Psi_i-\frac{\pi}{2}
 $$
+
