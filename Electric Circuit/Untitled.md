@@ -21,3 +21,7 @@ $$
 \int idt\rightarrow\frac{\dot{I}}{j\omega}=\frac{I}{\omega}\angle \Psi_i-\frac{\pi}{2}
 $$
 
+
+
+
+

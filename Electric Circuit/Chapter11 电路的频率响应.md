@@ -22,3 +22,8 @@ $$
 Q\overset{\underset{\mathrm{def}}{}}{=}\frac{\omega_0L}{R}=\frac{1}{\omega_0CR}=\frac{1}{R}\sqrt{\frac{L}{C}}
 $$
 
+## 问题
+
+电感和电阻串联等效为并联
+
+无功功率的计算（用Q）？
