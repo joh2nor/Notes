@@ -71,3 +71,16 @@ $$
 <img src="C:\Users\25408\AppData\Roaming\Typora\typora-user-images\image-20220311104954334.png" alt="image-20220311104954334" style="zoom:80%;" />
 
 <img src="C:\Users\25408\AppData\Roaming\Typora\typora-user-images\image-20220311105218346.png" alt="image-20220311105218346" style="zoom:80%;" />
+
+
+
+
+
+## 二端口网络连接
+
+1. 级联/链联
+   - $T=T\prime+T\prime\prime$
+2. 并联
+   - $Y=Y\prime+Y\prime\prime$
+3. 串联
+   - $Z=Z\prime+Z\prime\prime$
