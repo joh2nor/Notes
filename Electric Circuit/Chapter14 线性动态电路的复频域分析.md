@@ -40,7 +40,11 @@ K_i=F(s)(s-p_i)|_{s=p_i},i=1,2,3...\\
 \displaystyle K_i=\lim_{s\rightarrow p_i}\frac{N(s)(s=p_i)}{D(s)}=\frac{N(p_i)}{D\prime(p_i)}
 \end{matrix}
 $$
-共轭
+共轭	
+
+<img src="C:\Users\25408\AppData\Roaming\Typora\typora-user-images\image-20220312110005775.png" alt="image-20220312110005775" style="zoom: 50%;" />
+
+<img src="C:\Users\25408\AppData\Roaming\Typora\typora-user-images\image-20220312105951107.png" alt="image-20220312105951107" style="zoom:50%;" />
 
 重根
 
